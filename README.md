@@ -7,10 +7,10 @@ Post graduated in MBA from Bharati Vidyapeeth Unversity in 2021.
 
 I am Data Scientist and I have worked on some projects which I mentioned below:
 
-Car Purchase Amount - Regression 
+1. Car Purchase Amount - Regression 
 
-Customer Clustering - Clustering 
+2. Customer Clustering - Clustering 
 
-Email Spam Detector - Classification
+3. Email Spam Detector - Classification
 
-Movie Recommender 
+4. Movie Recommender 
